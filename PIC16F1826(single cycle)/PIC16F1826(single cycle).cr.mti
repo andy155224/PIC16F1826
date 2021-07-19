@@ -1,0 +1,36 @@
+{C:/Users/Tsai/Desktop/PIC16F1826(single cycle)/Stack.v} {1 {vlog -work work {C:/Users/Tsai/Desktop/PIC16F1826(single cycle)/Stack.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Stack
+
+Top level modules:
+	Stack
+
+} {} {}} {C:/Users/Tsai/Desktop/PIC16F1826(single cycle)/Rom.v} {1 {vlog -work work {C:/Users/Tsai/Desktop/PIC16F1826(single cycle)/Rom.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Rom
+
+Top level modules:
+	Rom
+
+} {} {}} {C:/Users/Tsai/Desktop/PIC16F1826(single cycle)/Cpu.v} {1 {vlog -work work {C:/Users/Tsai/Desktop/PIC16F1826(single cycle)/Cpu.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Cpu
+
+Top level modules:
+	Cpu
+
+} {} {}} {C:/Users/Tsai/Desktop/PIC16F1826(single cycle)/Ram.v} {1 {vlog -work work {C:/Users/Tsai/Desktop/PIC16F1826(single cycle)/Ram.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Ram
+
+Top level modules:
+	Ram
+
+} {} {}} {C:/Users/Tsai/Desktop/PIC16F1826(single cycle)/Timer0.v} {1 {vlog -work work {C:/Users/Tsai/Desktop/PIC16F1826(single cycle)/Timer0.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Timer0
+
+Top level modules:
+	Timer0
+
+} {} {}}

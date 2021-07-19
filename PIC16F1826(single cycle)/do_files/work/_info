@@ -1,0 +1,125 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\User\Desktop\PIC1826(single cycle)\PIC1826(single cycle)\do_files
+vCpu
+Z1 I<i;8FEz@56;JllF?Y3h2]1
+Z2 VYHZ]TIlBbJ_Hf8YP_T4T[2
+Z3 dC:\Users\User\Desktop\PIC1826(single cycle)\PIC1826(single cycle)\do_files
+Z4 w1626191610
+Z5 8../Cpu.v
+Z6 F../Cpu.v
+L0 14
+Z7 OV;L;10.1d;51
+r1
+31
+Z8 !s90 -reportprogress|300|../Cpu.v|
+o-O0
+n@cpu
+Z9 !s100 62RE>JCezRIMCRz0ZKSXk2
+Z10 !s108 1626191622.255000
+Z11 !s107 ../Cpu.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vRam
+Z12 !s100 <MLPo]DQCR8Qc4?4efahg1
+Z13 I5V2l?:NP]YN7BN9a7SURd0
+Z14 V=IdDlP_:QNCmiQLNhe^ZD2
+R3
+Z15 w1626179821
+Z16 8../Ram.v
+Z17 F../Ram.v
+L0 1
+R7
+r1
+31
+Z18 !s90 -reportprogress|300|../Ram.v|
+o-O0
+n@ram
+Z19 !s108 1626191622.344000
+Z20 !s107 ../Ram.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vRom
+Z21 !s100 3GaeR;B3lO8oLX^aj:n0`2
+Z22 IXVEICOUEK;?nf0j8ie=Ih1
+Z23 VVO;6V`OX:^6f[GB4^?AU@3
+R3
+Z24 w1626185425
+Z25 8../Rom.v
+Z26 F../Rom.v
+L0 1
+R7
+r1
+31
+Z27 !s90 -reportprogress|300|../Rom.v|
+o-O0
+n@rom
+Z28 !s108 1626191622.431000
+Z29 !s107 ../Rom.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vStack
+Z30 !s100 ?EN^R<FlOD^kf:AP3h`>:0
+Z31 I1o3Lb_P8m=U>>EXdJCh4m1
+Z32 V<[e9kP3h6Ci@U^7]0_c612
+R3
+Z33 w1616864097
+Z34 8../Stack.v
+Z35 F../Stack.v
+L0 1
+R7
+r1
+31
+Z36 !s90 -reportprogress|300|../Stack.v|
+o-O0
+Z37 n@stack
+Z38 !s108 1626191622.509000
+Z39 !s107 ../Stack.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vTestBench
+!i10b 1
+Z40 !s100 P`]ZGh<jEz4B7l7HekPAi3
+Z41 IA7:OKa0A^GQ7JN3`9M>Vc1
+Z42 VH;VS]59WmQ>4a<zRibM9Z0
+R3
+Z43 w1626189412
+Z44 8./TestBench.v
+Z45 F./TestBench.v
+L0 2
+R7
+r1
+!s85 0
+31
+!s108 1626191622.665000
+!s107 ./TestBench.v|
+Z46 !s90 -reportprogress|300|./TestBench.v|
+!s101 -O0
+o-O0
+Z47 n@test@bench
+vTimer0
+Z48 !s100 acXLBEM?UnAKVW_eY0><63
+Z49 IFCWElCGA_GDgPf]9[g4F[3
+Z50 VGVMA<GBc]Rc1o7k=XXa>I0
+R3
+Z51 w1626186138
+Z52 8../Timer0.v
+Z53 F../Timer0.v
+L0 1
+R7
+r1
+31
+Z54 !s90 -reportprogress|300|../Timer0.v|
+o-O0
+Z55 n@timer0
+!i10b 1
+!s85 0
+Z56 !s108 1626191622.587000
+Z57 !s107 ../Timer0.v|
+!s101 -O0
